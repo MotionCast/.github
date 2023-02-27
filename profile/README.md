@@ -1,4 +1,4 @@
-# MoCast
+# mocast
 
 Stay tuned for more information
 
